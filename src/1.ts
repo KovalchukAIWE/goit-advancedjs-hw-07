@@ -16,4 +16,6 @@ class Student {
   }
 }
 
+const newStudent: Student = new Student("John Doe", 18, "A");
+
 export {};
